@@ -1,0 +1,28 @@
+# Core dependencies for financial-extractor
+# Document processing
+docling==2.48.0
+docling-core==2.45.0
+
+# OCR dependencies (required by docling)
+easyocr==1.7.2
+python-bidi==0.6.6
+
+# Data models and validation
+pydantic==2.11.7
+pydantic-core==2.33.2
+
+# LLM integration
+langchain-openai==0.3.32
+langsmith==0.4.20
+openai==1.102.0
+
+# Excel export functionality
+pandas==2.3.2
+openpyxl==3.1.5
+
+# Environment configuration
+python-dotenv==1.1.1
+
+# Additional required dependencies
+typing-extensions==4.15.0
+annotated-types==0.7.0
