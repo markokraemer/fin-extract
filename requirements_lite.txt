@@ -1,0 +1,7 @@
+# Lightweight dependencies for financial-extractor
+PyPDF2==3.0.1
+python-dotenv==1.1.1
+openai==1.102.0
+langchain-openai==0.3.32
+openpyxl>=3.1.5
+pandas>=2.1.4
