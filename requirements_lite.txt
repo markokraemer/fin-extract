@@ -1,0 +1,12 @@
+# Lightweight dependencies for financial-extractor
+# Core document processing
+PyPDF2==3.0.1
+python-dotenv==1.1.1
+
+# LLM integration
+openai==1.102.0
+langchain-openai==0.3.32
+
+# Excel export (already installed)
+openpyxl>=3.1.5
+pandas>=2.1.4
